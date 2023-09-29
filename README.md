@@ -1,14 +1,14 @@
 # Vertically Integrated Projects Program
 
 Use this repository to accompany your application to the Vertically Integrated
-Projects Program at Oregon State University. After completing the steps below,
+Projects program at Oregon State University. After completing the steps below,
 please be sure to complete the whole application form - your fork of this repo
 is not the only thing to do!
 
 ## Goal
 
 Demonstrate your level of tool, programming and workflow proficiencies as part
-of your application to the VIP Program. Generate a forked repository that shows a
+of your application to the VIP program. Generate a forked repository that shows a
 commit history, issue, feature branch, implementation, unit test, and pull request.
 
 ## What to Do
